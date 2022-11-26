@@ -1,6 +1,5 @@
 # clouds_assignment2
 This respository created for my clouds semester assignment not for the developement purpose  
-## Eurecom clouds assignment2 
 Date: 26/11/2022
 
 ## Folders
