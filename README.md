@@ -15,3 +15,7 @@ Date: 26/11/2022
  azure_function:  https://jkfunction.azurewebsites.net/api/httptrigger1/?start=0&end=3.14
  
  azure_function_Mapreduce:  https://jkmapreduce.azurewebsites.net/api/orchestrators/masterorchestrator
+ 
+ azure_webapp: https://jkapp1.azurewebsites.net/numericalintegration/0/3.14
+ 
+ azure_scaleset: http://20.160.84.41/numericalintegration/0/3.14
