@@ -1,5 +1,5 @@
-# clouds_assignment2
-This respository created for my clouds semester assignment not for the developement purpose  
+# Map Reduce
+This repository was created for my Clouds coursework
 Date: 26/11/2022
 
 ## Folders
